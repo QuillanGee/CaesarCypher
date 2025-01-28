@@ -1,0 +1,14 @@
+/Users/quillangee/RiderProjects/CaesarCypherEventGroup/CaesarCypherCode/bin/Debug/net8.0/CaesarCypherCode
+/Users/quillangee/RiderProjects/CaesarCypherEventGroup/CaesarCypherCode/bin/Debug/net8.0/CaesarCypherCode.deps.json
+/Users/quillangee/RiderProjects/CaesarCypherEventGroup/CaesarCypherCode/bin/Debug/net8.0/CaesarCypherCode.runtimeconfig.json
+/Users/quillangee/RiderProjects/CaesarCypherEventGroup/CaesarCypherCode/bin/Debug/net8.0/CaesarCypherCode.dll
+/Users/quillangee/RiderProjects/CaesarCypherEventGroup/CaesarCypherCode/bin/Debug/net8.0/CaesarCypherCode.pdb
+/Users/quillangee/RiderProjects/CaesarCypherEventGroup/CaesarCypherCode/obj/Debug/net8.0/CaesarCypherCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quillangee/RiderProjects/CaesarCypherEventGroup/CaesarCypherCode/obj/Debug/net8.0/CaesarCypherCode.AssemblyInfoInputs.cache
+/Users/quillangee/RiderProjects/CaesarCypherEventGroup/CaesarCypherCode/obj/Debug/net8.0/CaesarCypherCode.AssemblyInfo.cs
+/Users/quillangee/RiderProjects/CaesarCypherEventGroup/CaesarCypherCode/obj/Debug/net8.0/CaesarCypherCode.csproj.CoreCompileInputs.cache
+/Users/quillangee/RiderProjects/CaesarCypherEventGroup/CaesarCypherCode/obj/Debug/net8.0/CaesarCypherCode.dll
+/Users/quillangee/RiderProjects/CaesarCypherEventGroup/CaesarCypherCode/obj/Debug/net8.0/refint/CaesarCypherCode.dll
+/Users/quillangee/RiderProjects/CaesarCypherEventGroup/CaesarCypherCode/obj/Debug/net8.0/CaesarCypherCode.pdb
+/Users/quillangee/RiderProjects/CaesarCypherEventGroup/CaesarCypherCode/obj/Debug/net8.0/CaesarCypherCode.genruntimeconfig.cache
+/Users/quillangee/RiderProjects/CaesarCypherEventGroup/CaesarCypherCode/obj/Debug/net8.0/ref/CaesarCypherCode.dll
