@@ -12,3 +12,4 @@
 /Users/quillangee/RiderProjects/CaesarCypherEventGroup/CaesarCypherCode/obj/Debug/net8.0/CaesarCypherCode.pdb
 /Users/quillangee/RiderProjects/CaesarCypherEventGroup/CaesarCypherCode/obj/Debug/net8.0/CaesarCypherCode.genruntimeconfig.cache
 /Users/quillangee/RiderProjects/CaesarCypherEventGroup/CaesarCypherCode/obj/Debug/net8.0/ref/CaesarCypherCode.dll
+/Users/quillangee/RiderProjects/CaesarCypherEventGroup/CaesarCypherCode/obj/Debug/net8.0/CaesarCypherCode.sourcelink.json
